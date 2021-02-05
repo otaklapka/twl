@@ -7,7 +7,7 @@ At the end of the day you could estimate the spent time and track it to right ta
 The other day it will serve as list for standup.
 
 
-##Subcommands
+## Subcommands
 * `ls` lists records, default is today
     * `[-d <dd.mm.yyyy>]` date to list records of
     * `[-l]` list last day containing some records
@@ -19,7 +19,7 @@ The other day it will serve as list for standup.
 * `rm <id>` remove record
 * `tdiff <id|hh:mm> <id|hh:mm>` count time diff between records or time
 
-##Usage
+## Usage
 * Download binary of desired platform
 * Make it executable
 * Add to PATH or alias
